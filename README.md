@@ -12,16 +12,10 @@ In diesem Repository sind die Metadaten zu einer Auswahl der Werkzeuge dieser Se
 
 Die online Autorenwerkzeuge ermöglichen die Erstellung interaktiver Übungen wie beispielsweise Lückentexte, Auswahlfragen oder Vokabeltests. Die selbst gestaltenen Übungen können anschließend entweder in Form von HTML-Datei gespeichert oder als Testfragen in eine Moodle basierten Lernplattform importiert werden. Die Nutzung der Quizgeneratoren erfolgt ohne Registrierung und kostenfrei. Während der Bearbeitung erfolgt die Speicherung ausschließlich lokal im Webbrowser, auch beim Erzeugen der Ausgabedateien werden zu keinem Zeitpunkt Inhalte der Übungen an einen Server gesendet. Darüber hinaus werden auf dieser Seite vielfältige weitere Hilfsmittel für den digital gestützen Unterricht angeboten.
 
-## Lizenz
+## Lizenz für die mit den Werkzeugen selbst generierten Übungsdateien
 
-### Didaktisches Konzept, Programmidee, selbst erstellte Mediendateien und ggf. Übungsaufgaben
-
-Eingebettete Bilder und Animationen, aber auch die Übungsaufgaben mit den Lösungen stehen unter der [CC BY 3.0 DE (Creative Commons, Namensnennung)](https://creativecommons.org/licenses/by/3.0/de/legalcode) Lizenz.
-
-### Programmcode:
-
-Die Quelltexte der eigentlichen Lernprogramme stehen unter der [GPLv3](http://www.gnu.org/licenses/gpl.html) (GNU General Public License Version 3).
-Diese besagt im Wesentlichen, dass einerseits die Programme frei verändert und an die eigenen Bedürfnisse angepasst werden dürfen, dass aber andererseits das Resultat wiederum zukünftig ebenfalls unter der GPL freigegeben und im Quelltext verfügbar gemacht werden muss (s. sogenanntes [Copyleft](https://de.wikipedia.org/wiki/GNU_General_Public_License#Copyleft-Prinzip)). Die bisherigen Programmautoren müssen auch zukünftig genannt werden.
+Die mit Hilfe der Autorenwerkzeuge generierten HTML/JavaScript-Übungen stehen – soweit keine Urheberrechte Dritter durch vom Benutzer eingefügte geschützte Texte oder Mediendateien verletzt werden – unter der CC BY 3.0 DE Lizenz.
+Eine Weitergabe der erzeugten Übungen ist somit sowohl in privaten als auch in kommerziellen Projekten erlaubt, mit der Einschränkung, dass der ggf. in der HTML-Datei enthaltene Hinweislink auf die Ursprungsseite nicht entfernt wird und dass eine Namensnennung erfolgt. 
 
 ### Lizenzen von im Einzelfall verwendeten Drittprogrammen
 
