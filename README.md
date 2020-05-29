@@ -14,7 +14,7 @@ Die online Autorenwerkzeuge ermöglichen die Erstellung interaktiver Übungen wi
 
 ## Lizenz für die mit den Werkzeugen selbst generierten Übungsdateien
 
-Die mit Hilfe der Autorenwerkzeuge generierten HTML/JavaScript-Übungen stehen – soweit keine Urheberrechte Dritter durch vom Benutzer eingefügte geschützte Texte oder Mediendateien verletzt werden – unter der CC BY 3.0 DE Lizenz.
+Die mit Hilfe der Autorenwerkzeuge generierten HTML/JavaScript-Übungen stehen – soweit keine Urheberrechte Dritter durch vom Benutzer eingefügte geschützte Texte oder Mediendateien verletzt werden – unter der [CC BY 4.0 DE (Creative Commons, Namensnennung)](https://creativecommons.org/licenses/by/4.0/de/legalcode) Lizenz.
 Eine Weitergabe der erzeugten Übungen ist somit sowohl in privaten als auch in kommerziellen Projekten erlaubt, mit der Einschränkung, dass der ggf. in der HTML-Datei enthaltene Hinweislink auf die Ursprungsseite nicht entfernt wird und dass eine Namensnennung erfolgt. 
 
 ### Lizenzen von im Einzelfall verwendeten Drittprogrammen
